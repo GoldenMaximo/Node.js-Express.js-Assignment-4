@@ -1,0 +1,25 @@
+{
+  "name": "node.js-assignment-4",
+  "version": "1.0.0",
+  "description": "Section 6 Assignment 4 of NodeJS - The Complete Guide (MVC, REST, APIs, GraphQL, Deno)",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GoldenMaximo/Node.js-Assignment-4.git"
+  },
+  "author": "Gustavo Máximo Filho",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GoldenMaximo/Node.js-Assignment-4/issues"
+  },
+  "homepage": "https://github.com/GoldenMaximo/Node.js-Assignment-4#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.4",
+    "pug": "^3.0.0"
+  }
+}
